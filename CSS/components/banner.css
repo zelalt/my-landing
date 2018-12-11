@@ -1,0 +1,25 @@
+.banner{
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url("../../images/students.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px 0px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
+.banner h3 {
+  color: white;
+  font-size: 24px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-top: -10px;
+  margin-left: -20px;
+  text-align: justify;
+}
